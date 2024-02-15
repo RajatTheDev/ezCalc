@@ -1,1 +1,1 @@
-# CalcXpress
+# ezCalc

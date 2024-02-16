@@ -7,6 +7,8 @@ body {
     font-family:cursive;
     height: 100vh;
     font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
     background-image: linear-gradient(rgb(103, 103, 103), black);
 }
 
@@ -20,11 +22,9 @@ body {
 }
 
 .calculator-body {
-    width: 100%;
-    max-width: 320px;
     border: 6px solid rgb(52, 52, 52);
     background-image: linear-gradient(rgb(37, 37, 37), rgb(68, 68, 68));
-    padding: 16px 0;
+    padding: 16px 8px;
     margin: 0 auto;
     color: rgb(255, 202, 202);
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 50%);

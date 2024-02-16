@@ -9,6 +9,7 @@ Welcome to Ez Calc! This is a simple web application based calculator  developed
 - [Features](#features)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
+- [Built With](#built-with)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,8 +24,8 @@ Welcome to Ez Calc! This is a simple web application based calculator  developed
 ## Features
 
 - **Basic Operations:** Addition, Subtraction, Multiplication, Division.
-- **Advanced Functions:** delete last character, error handling for division by zero
-- **User-Friendly Design:** Backspace functionality for easy correction.
+- **Advanced Functions:** delete last character, error handling for division by zero, Backspace functionality for easy correction.
+- **User-Friendly Design:** Responsive UI with clear error messages.
 - **Additional Functionality:** Size limit alert for input, Clear all with 'AC' button.
 
 ## Usage
